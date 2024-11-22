@@ -1,0 +1,27 @@
+body{
+    background-image: url(imagem.png);
+    text-align: center;
+    font-style: arial 20pt;
+    
+}
+header{
+    color: black;
+
+}
+section{
+    background-color: rgba(168, 141, 81, 0.493);
+    box-shadow: 50px;
+    border-radius: 3px 3px 10px white;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    font-size: larger;
+    padding: 20px;
+    
+}
+
+footer{
+    color: rgb(241, 221, 221);
+    font-style: italic;
+
+}

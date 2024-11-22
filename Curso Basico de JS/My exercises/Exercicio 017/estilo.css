@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(88, 88, 231);
+}
+header{
+    text-align: center;
+    color: white
+    
+}
+section{
+    background-color:wheat;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin:auto ;
+    box-shadow: 3px 3px 10px white;
+
+}
+select#selnum{
+    width: 150px;
+}
+footer{
+    text-align: center;
+    color: whitesmoke;
+}

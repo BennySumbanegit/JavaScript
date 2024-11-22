@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right,#E65763 , #34073D);
+    font: normal 15pt;
+    color: rgb(0, 0, 0);
+}
+header{
+    text-align: center;
+    color: white;
+
+}
+section{
+    background-color: rgb(235, 222, 222);
+    border-radius: 50px;
+    padding: 30px;
+    width: 500px;
+    margin:auto ;
+    box-shadow: 3px 3px 10px white;
+
+}
+select{
+    width: 120px;
+}
+footer{
+    text-align: center;
+}

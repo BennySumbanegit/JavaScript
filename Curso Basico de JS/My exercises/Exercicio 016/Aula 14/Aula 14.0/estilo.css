@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(11, 78, 99);     /*imagen de imagen*/
+    text-align: center;
+
+}
+
+header{
+    color: rgb(0, 0, 0);
+
+}
+
+section{
+    text-align: center;
+    background-color:darkcyan;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin:auto ;
+    box-shadow: 3px 3px 10px white;
+
+}
+
+footer{
+    text-decoration: underline;
+    text-align: center;
+
+}
