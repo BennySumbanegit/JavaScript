@@ -1,3 +1,3 @@
 # JavaScript
  curso de js
- estou apredendo
+ ,estou apredendo.criei meu github
